@@ -151,7 +151,7 @@ class _HomePageState extends State<HomePage> {
                             child: TextButton(
                               onPressed: () {
                                 method.launchURL(
-                                    "https://drive.google.com/file/d/1yHLcrN5pCUGIeT8SrwC2L95Lv0MVbJpx/view?usp=sharing");
+                                    "https://docs.google.com/document/d/1QQmwTcfu5YFUV_4_5nrwBBmpRJS7E-zK/edit?usp=sharing&ouid=115541674412941090557&rtpof=true&sd=true");
                               },
                               child: Padding(
                                 padding: const EdgeInsets.symmetric(
@@ -256,7 +256,7 @@ class _HomePageState extends State<HomePage> {
                                     height: 6.0,
                                   ),
                                   CustomText(
-                                    text: "Tushar Nikam.",
+                                    text: "Cloderaldo Pampanga.",
                                     textsize: 68.0,
                                     color: Color(0xffCCD6F6),
                                     fontWeight: FontWeight.w900,
@@ -277,7 +277,7 @@ class _HomePageState extends State<HomePage> {
                                   Wrap(
                                     children: [
                                       Text(
-                                        "I'm a freelancer based in Nashik, IN specializing in \nbuilding (and occasionally designing) exceptional websites, \napplications, and everything in between.",
+                                        "I'm a freelancer based in Calbayog, IN specializing in \nbuilding websites, \napplications, and everything in between.",
                                         style: TextStyle(
                                           color: Colors.grey,
                                           fontSize: 16.0,
